@@ -19,7 +19,7 @@ export default function Home() {
               <div className="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
                 <div className="pr-12">
                   <h1 className="text-white font-semibold text-5xl">
-                    Instant Smart Wallets for your customers.
+                    Instant Smart Wallets for your customers. 
                   </h1>
                   <p className="mt-4 text-lg text-white">
                     ZeroDev first encountered this problem when we were developing our WalletConnect integration and realized that we couldn’t sign into OpenSea until we deployed the wallet, which led to a lengthy discussion with many smart people in the 4337 ecosystem. Eventually, Ivo from Ambire came up with a great solution that turned into ERC-6492.

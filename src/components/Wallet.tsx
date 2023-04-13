@@ -34,7 +34,7 @@ const  Wallet = () => {
     await socialWallet.disconnect()
     setAddress('')
   }
-
+ 
   const connected = !!address
 
   return (
